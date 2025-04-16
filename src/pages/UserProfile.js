@@ -24,7 +24,7 @@ function UserProfile(){
                 <NavBar />
             </header>
             <main>
-                <h1>{user.name}e</h1>
+                <h1>{user.name}</h1>
             </main>
         </>
     )
